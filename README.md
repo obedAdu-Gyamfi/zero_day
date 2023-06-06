@@ -1,1 +1,1 @@
-This is my first Reame.md file from a remote origin
+This is my first Readme.md file from a remote origin
